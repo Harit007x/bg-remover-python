@@ -1,0 +1,14 @@
+# Web server
+flask==3.0.3
+flask-cors==4.0.1
+
+# Image processing
+Pillow==10.4.0
+
+# Machine learning pipeline
+transformers==4.45.2
+torch>=2.2.0
+safetensors>=0.4.0
+
+# Optional: faster image and tensor processing
+numpy>=1.26.0
